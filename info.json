@@ -1,0 +1,11 @@
+{
+ "name": "Spdier Token",
+ "website": "http://www.spider-global.com/",
+ "description": "The Spdier Token is a decentralized token that is completely self-contained by the community.",
+ "explorer": "https://bscscan.com/token/0x8f55d479ae62a6d1a92fc00539ff093dd3f168da",
+ "type": "BEP20",
+ "symbol": "SPR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f55d479ae62a6d1a92fc00539ff093dd3f168da"
+}
